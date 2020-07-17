@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+section, footer {
+  width: 75%;
+  margin: 16px auto;
+  padding: 3rem;
+  background: #c9c9c9; }
+  section button, footer button {
+    padding: 0.5rem 1rem;
+    background: #f0b73c;
+    color: white;
+    margin: 1rem;
+    cursor: pointer; }
+    section button:hover, footer button:hover {
+      background: #a0710c; }
+
+footer button {
+  padding: 0.5rem 1rem;
+  background: #5e8ad1;
+  color: white;
+  margin: 1rem;
+  cursor: pointer; }
+  footer button:hover {
+    background: #274c89; }
+
+article {
+  color: black; }
